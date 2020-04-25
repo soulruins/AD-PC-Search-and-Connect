@@ -6,7 +6,7 @@
 
 ## Требования
 
-* Powershel 3+ (.NET 4+)
+* Powershell 3+ (.NET 4+)
 * [PowerShell Active Directory module](https://4sysops.com/wiki/how-to-install-the-powershell-active-directory-module/)
 
 ## Возможности
